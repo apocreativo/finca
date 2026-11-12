@@ -1,0 +1,8 @@
+{
+  "name": "Remix AgroFinca - Farm \u0026 Livestock Manager",
+  "description": "Comprehensive farm management platform for livestock (dairy, beef, horses), crops, sowing, and health calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
